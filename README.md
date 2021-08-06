@@ -1,6 +1,6 @@
 # The-Spark-Foundation-Internship-
 
-# Youtube Video #
+# Videos #
 Exploratory Data Analysis - Retail: https://youtu.be/Jdgx8TGowrc \
 Prediction using Decision Tree Algorithm: https://youtu.be/z5nMTgPJabA \
 Prediction using Supervised ML: https://youtu.be/Sxwh-ew08hk \
