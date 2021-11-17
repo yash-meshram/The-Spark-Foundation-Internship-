@@ -1,4 +1,7 @@
 # The-Spark-Foundation-Internship-
+* Build the ML model for different tasks (Supervised and Unsupervised learning, Decision Tree, etc)
+* Understood Data cleaning, Feature selection, and real-life application of ML.
+
 
 # Videos #
 Exploratory Data Analysis - Retail: https://youtu.be/Jdgx8TGowrc \
